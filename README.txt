@@ -2,7 +2,7 @@ REBOLIDE
 
 -What is it?
 
-It's a IDE for Rebol.
+It's an IDE (Integrated Development Environment) for Rebol.
 
 -What is Rebol?
 
